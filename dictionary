@@ -1,0 +1,6 @@
+customer = {'name': 'Prince Jay',
+            'age': 30,
+            'is_verified': True
+}
+customer ['birthday'] = '05-03-1990'
+print (customer['birthday'])
